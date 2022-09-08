@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hola Mundo en C++";
+    string cad = "Hola Mundo en C++";
+    cout<<cad;
     return 0;
 }
