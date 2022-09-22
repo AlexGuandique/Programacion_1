@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 // clase base
@@ -43,7 +44,7 @@ class Perro : public Animal {
         cout << "Yo soy un " << type << endl;
         cout << "Mi color es: " << c << endl;
     }
-
+    
     void ladrar() {
         cout << "Puedo ladrar! Woof woof!!" << endl;
     }
@@ -56,8 +57,8 @@ int main() {
     // Llamando a los miembros de la clase base
     perro1.comer();
     perro1.dormir();
-    perro1.setColor("Negro");
-
+    perro1.setColor("Negro"); //Establece el color de el animal
+ 
     // Llamando a los mienbros de la clase derivada
     perro1.ladrar();
     perro1.setType("Pitbull");
@@ -66,6 +67,6 @@ int main() {
     // getColor() devuelve datos de tipo cadena
     perro1.displayInfo(perro1.getColor());
     
-}
+}         
 
 

@@ -1,3 +1,1 @@
-int getProt() {
-        return prot;
-    }
+print
