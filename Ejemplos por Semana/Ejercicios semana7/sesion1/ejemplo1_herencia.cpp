@@ -15,19 +15,30 @@ class Animal {
         }
 };
 
-// Clase Derivada
-class Perro : public Animal {
+// Clases Derivadas
+class Perro : protected Animal {
    public:
         void ladrar() {
             cout << "!Puedo ladrar! Woof woof!!" << endl;
         }
+        void cazar()
+        {
+            cout << "!Puedo cazar! Woof woof!!" << endl;
+        }
+};
+
+class Cazador : public Perro {
+   public:
+    
+        
+        
 };
 
 // Clase Derivada
 class Gato : public Animal {
     public:
         void maullar(){
-            cout << "!Muedo Maullar! Miau Miau!!";
+            cout << "!Puedo Maullar! Miau Miau!!"<<endl;;
         }
 };
 
@@ -35,7 +46,15 @@ class Gato : public Animal {
 class Pajaro : public Animal{
     public:
         void cantar(){
-            cout << "!Puedo Cantar!";
+            cout << "!Puedo Cantar!"<<endl;;
+        }
+};
+// Clase derivada
+class Vaca : public Animal
+{
+    public:
+        void muje(){
+            cout << "Puedo Mujir MUUUUUUUU"<<endl;
         }
 };
 
@@ -45,24 +64,35 @@ int main() {
     // Crear un objeto de la clase perro
     Perro perro1;
 
-    // Llamando miembros de la clase base
-    perro1.comer();
-    perro1.dormir();
+    // Llamando funciones miembro de la clase base
+    //perro1.mostrarMB();
 
-    // Llamando miembros de la clase derivada
+    Cazador perroCazador;
+    perroCazador.cazar();
+    
+    // Llamando funciones miembro de la clase derivada
     perro1.ladrar();
 
     cout <<"\n****************Gato*******************\n";
 
-    Gato catObj;
-    // Llamando miembros de la clase base
+    Gato catObj;//instancia de la clase
+    // Llamando funciones miembro de la clase base
     catObj.comer();
     catObj.dormir();
-    // Llamando miembros de la clase derivada
+    // Llamando funciones miembro de la clase derivada
     catObj.maullar();
     cout <<"\n*****************Pajaro******************\n";
-    Pajaro canario;
+    Pajaro canario;//instancia de la clase
+    // Llamando funciones miembro de la clase base
     canario.comer();
     canario.dormir();
+    // Llamando funciones miembro de la clase derivada
     canario.cantar();
+    cout <<"\n*****************Vaca******************\n";
+    Vaca cowObj; //instancia de la clase
+      // Llamando funciones miembro de la clase base
+    cowObj.comer();
+    cowObj.dormir();
+   // Llamando funciones miembro de la clase derivada
+    cowObj.muje();
 }
