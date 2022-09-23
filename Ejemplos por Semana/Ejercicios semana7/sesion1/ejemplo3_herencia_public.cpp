@@ -27,12 +27,31 @@ class PublicDerived : public Base {
     }
 };
 
+class PublicDerived2 : protected Base {
+   public:
+    // función para acceder a un miembro protegido desde Base
+    int getProt() {
+        return prot;
+    }
+    int getPub(){
+        return pub;
+    }
+    void mostrarPub(){
+        cout << "Private = " << getPVT() << endl;
+    }
+};
+
 int main() {
     PublicDerived object1;
     cout << "Private = " << object1.getPVT() << endl;
     cout << "Protected = " << object1.getProt() << endl;
     cout << "Public = " << object1.pub << endl;
 
+    PublicDerived2 object2;
+    
+    cout << "Protected = " << object2.getProt() << endl;
+    cout << "Public = " << object2.getPub() << endl;
+    object2.mostrarPub();
     /*
     // Error: member "Base::pvt" is inaccessible
     cout << "Private = " << object1.pvt;
