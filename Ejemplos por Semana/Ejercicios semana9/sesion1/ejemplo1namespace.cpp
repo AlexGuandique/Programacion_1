@@ -1,12 +1,14 @@
 #include<iostream>
 #include<string>
 #include <cstdlib> // Libreria para incluir system ("pause");
+
 using namespace std;
 
 namespace namespace1{
     double x = 7.7;
-    void hello(){
+    int hello(){
         cout<<"Hola mundo, me gusta programar en Python"<<endl;
+        return 0;
     }
     string f2(){
         return "Hola mundo, me gusta programar en C#";
@@ -37,5 +39,6 @@ int main()
     cout<<namespace1::f2();
     namespace1::f;
     system("pause");
+    return 0;
 }
 

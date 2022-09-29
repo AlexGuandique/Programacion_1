@@ -13,7 +13,6 @@ namespace principal{
 int main()
 {
     using namespace principal::secundario;
-    cout<<principal::txt;
-    cout<<txt;
-    
+    cout<<txt<<endl;
+    cout<<principal::txt<<endl;
 }

@@ -9,9 +9,9 @@ int main() {
         if (i == 5) {
             // Llamada al comando de pausa
             cout << "Llamar al comando de pausa\n";
-            system("pause");
+            system("PAUSE");
             cout << "programa de pausa terminado. Reanudando ...\n";
         }
     }
-    system("pause");
+    system("PAUSE");
 }//fin de main
