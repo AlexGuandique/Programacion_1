@@ -1,9 +1,11 @@
 #include<iostream>
 #include<string>
-#include<Animal.h>
+//#include"Animal.cpp"
+#include"Reptil.cpp"
 
 int main()
 {
-    cout<<"Homa mundo";
+    Reptil tortuga("Tortuga Verde", "verde","bosque", 100, "Tortuga");
+    tortuga.mostrarAnimal();
     return 0;
 }

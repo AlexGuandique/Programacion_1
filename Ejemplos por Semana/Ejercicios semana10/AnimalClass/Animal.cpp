@@ -5,7 +5,7 @@ using namespace std;
 
 class Animal
 {
-private:
+protected:
     /* data */
     string nombre;
     string color;
@@ -60,10 +60,10 @@ void Animal::AgregarAnimal()
 
 void Animal::mostrarAnimal()
 {
-    cout<<"Nombre: "<<nombre;
-    cout<<"Color: "<<color;
-    cout<<"Habitad: "<<habitad;
-    cout<<"Esperanza de Vida:"<<esperanzaVida;
+    cout<<"Nombre: "<<nombre<<endl;
+    cout<<"Color: "<<color<<endl;
+    cout<<"Habitad: "<<habitad<<endl;
+    cout<<"Esperanza de Vida:"<<esperanzaVida<<endl;
 }
 
 string Animal::getNombre(){return nombre;}
