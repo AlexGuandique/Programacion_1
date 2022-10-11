@@ -20,7 +20,7 @@ class Persona{
         cout << "Tipo: " << type <<endl;
         cout << "Edad: " << age <<endl;
     }
-    
+        
 };
 
 class Alumno : public Persona{
