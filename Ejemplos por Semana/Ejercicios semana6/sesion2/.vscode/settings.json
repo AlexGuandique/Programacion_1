@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
   "C_Cpp_Runner.debuggerPath": "gdb",
@@ -29,10 +28,4 @@
     "**/.vscode",
     "**/.vscode/**"
   ]
-=======
-    "files.associations": {
-        "ostream": "cpp",
-        "iostream": "cpp"
-    }
->>>>>>> ae34365198d303727d6e653914330dde9620a6e8
 }
