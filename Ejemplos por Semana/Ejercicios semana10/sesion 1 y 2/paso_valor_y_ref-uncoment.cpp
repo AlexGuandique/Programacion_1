@@ -30,5 +30,6 @@ int cuadradoPorValor( int numero )
 void cuadradoPorReferencia(int &refNumero)
 {
     refNumero *= refNumero; 
+    cout << "Valor Cuadrado por referencia: "<<refNumero<<endl;
 } 
 

@@ -15,14 +15,16 @@ int main()
     
     int edad;
     cout << "Ingresa tu nombre: ";
-    cin >> nombre >> apellido >> edad;
+    cin >> nombre >> apellido >> edad; 
     cout << nombre <<endl;
     cout << apellido <<endl;
     cout <<edad<<endl;
+    
 
     string nombre_completo;
     cout << "Nombre completo: " << endl;
-    //cin >> nombre_completo; no almacena la linea completa
+    //cin >> nombre_completo; //no almacena la linea completa
+    cin.ignore();
     getline(cin, nombre_completo);
     cout << nombre_completo <<endl;
 

@@ -2,14 +2,14 @@
 
 class Reptil : public Animal
 {
-private:
+protected:
     /* data */
-    string clasificacion; //"Escamosos","Tortugas","Tuátaras","Cocodrilos"
+    string tipoReptil; //"Escamosos","Tortugas","Tuátaras","Cocodrilos","Serpientes" 
 public:
     Reptil();
     void mostrarAnimal();
-    string getClasificacion();
-    void setClasificacion();
+    string getTipoReptil();
+    void setTipoReptil();
 
     using Animal::Animal;
         Reptil(string n, string c, string h, int e, string cl);
@@ -21,20 +21,20 @@ Reptil::Reptil(string n, string c, string h, int e, string cl)
     color = c;
     habitad = h;
     esperanzaVida = e;
-    clasificacion = cl;
+    tipoReptil = cl;
 }
 
 Reptil::Reptil()
 {
-    clasificacion = "Ingresar Clasificacion";
+    tipoReptil = "Ingresar Tipo de Reptil";
 }
 
 
-string Reptil::getClasificacion(){return clasificacion;}
-void Reptil::setClasificacion()
+string Reptil::getTipoReptil(){return tipoReptil;}
+void Reptil::setTipoReptil()
 {
-    cout<<"Clasificacion: ";
-    getline(cin, clasificacion);
+    cout<<"Tipo Reptil: ";
+    getline(cin, tipoReptil);
 }
 
 void Reptil::mostrarAnimal()
@@ -43,5 +43,5 @@ void Reptil::mostrarAnimal()
     cout<<"Color: "<<color<<endl;
     cout<<"Habitad: "<<habitad<<endl;
     cout<<"Esperanza de Vida:"<<esperanzaVida<<endl;
-    cout<<"Clasificacion: "<<clasificacion<<endl;
+    cout<<"Clasificacion: "<<tipoReptil<<endl;
 }

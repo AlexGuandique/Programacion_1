@@ -52,8 +52,3 @@ void cuadradoPorReferencia( int &refNumero )
 refNumero *= refNumero; // se modificó el argumento de la función que hizo la llamada
 
 } // fin de la función cuadradoPorReferencia
-
-
-int cuenta = 1; // declara la variable entera cuenta
-int &cRef = cuenta; // crea cRef como alias para cuenta
-++cRef; // incrementa cuenta (usando su alias cRef)

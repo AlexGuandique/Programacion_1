@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
+//Prototipos de las funciones
+int cuadradoPorValor( int ); //copia del valor original 
 
-int cuadradoPorValor( int ); 
-
-void cuadradoPorReferencia(const int & ); 
-
+void cuadradoPorReferencia(const int & );  // La direccion de memoria donde esta el valor original
+//**********************************
 int main()
 {
     int x = 2; 
@@ -12,8 +12,8 @@ int main()
 
     // demuestra cuadradoPorValor
     cout << "x = " << x << " antes de cuadradoPorValor\n";
-    cout << "Valor devuelto por cuadradoPorValor: " 
-    << cuadradoPorValor(x) << endl;
+    cout << "Valor devuelto por cuadradoPorValor: ";
+    cout << cuadradoPorValor(x) << endl;
     cout << "x = " << x << " despues de cuadradoPorValor\n" << endl;
 
     // demuestra cuadradoPorReferencia
@@ -22,13 +22,12 @@ int main()
     cout << "z = " << z << " despues de cuadradoPorReferencia" << endl;
 } 
 
-int cuadradoPorValor( int numero )
+int cuadradoPorValor( int numero ) // 2 (copia)
 {
-    return numero *= numero;    
+    return numero *= numero;   //2*2=4 
 } 
 
 void cuadradoPorReferencia(const int &refNumero)
 {   
-    //refNumero *= refNumero; 
     cout << "refNumero = " << refNumero << " despues de cuadradoPorReferencia" << endl;
 } 

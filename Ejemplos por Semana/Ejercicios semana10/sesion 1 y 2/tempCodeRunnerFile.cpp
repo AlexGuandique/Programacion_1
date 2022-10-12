@@ -1,1 +1,1 @@
-numero
+cout << num<<endl;
