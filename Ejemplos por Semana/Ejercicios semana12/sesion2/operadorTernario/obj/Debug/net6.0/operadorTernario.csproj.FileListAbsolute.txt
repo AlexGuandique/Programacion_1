@@ -1,0 +1,15 @@
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\bin\Debug\net6.0\operadorTernario.exe
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\bin\Debug\net6.0\operadorTernario.deps.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\bin\Debug\net6.0\operadorTernario.runtimeconfig.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\bin\Debug\net6.0\operadorTernario.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\bin\Debug\net6.0\ref\operadorTernario.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\bin\Debug\net6.0\operadorTernario.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.AssemblyInfoInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.AssemblyInfo.cs
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\ref\operadorTernario.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadorTernario\obj\Debug\net6.0\operadorTernario.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\bin\Debug\net6.0\operadoresCompuestos.exe
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\bin\Debug\net6.0\operadoresCompuestos.deps.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\bin\Debug\net6.0\operadoresCompuestos.runtimeconfig.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\bin\Debug\net6.0\operadoresCompuestos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\bin\Debug\net6.0\ref\operadoresCompuestos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\bin\Debug\net6.0\operadoresCompuestos.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.AssemblyInfoInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.AssemblyInfo.cs
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\ref\operadoresCompuestos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresCompuestos\obj\Debug\net6.0\operadoresCompuestos.genruntimeconfig.cache

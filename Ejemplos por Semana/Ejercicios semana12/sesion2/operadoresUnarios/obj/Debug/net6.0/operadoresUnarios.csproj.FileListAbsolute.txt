@@ -1,0 +1,15 @@
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\bin\Debug\net6.0\operadoresUnarios.exe
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\bin\Debug\net6.0\operadoresUnarios.deps.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\bin\Debug\net6.0\operadoresUnarios.runtimeconfig.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\bin\Debug\net6.0\operadoresUnarios.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\bin\Debug\net6.0\ref\operadoresUnarios.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\bin\Debug\net6.0\operadoresUnarios.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.AssemblyInfoInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.AssemblyInfo.cs
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\ref\operadoresUnarios.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresUnarios\obj\Debug\net6.0\operadoresUnarios.genruntimeconfig.cache

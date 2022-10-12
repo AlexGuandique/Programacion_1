@@ -1,0 +1,15 @@
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\bin\Debug\net6.0\bool.exe
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\bin\Debug\net6.0\bool.deps.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\bin\Debug\net6.0\bool.runtimeconfig.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\bin\Debug\net6.0\bool.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\bin\Debug\net6.0\ref\bool.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\bin\Debug\net6.0\bool.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.AssemblyInfoInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.AssemblyInfo.cs
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\ref\bool.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion1\bool\obj\Debug\net6.0\bool.genruntimeconfig.cache

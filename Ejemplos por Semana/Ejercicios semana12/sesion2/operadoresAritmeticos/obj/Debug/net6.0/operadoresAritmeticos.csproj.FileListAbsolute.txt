@@ -1,0 +1,15 @@
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfo.cs
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.exe
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.deps.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.runtimeconfig.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\bin\Debug\net6.0\ref\operadoresAritmeticos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\ref\operadoresAritmeticos.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.genruntimeconfig.cache

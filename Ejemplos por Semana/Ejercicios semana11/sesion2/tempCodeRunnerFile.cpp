@@ -1,0 +1,1 @@
+cout << objU.miembro1 <<endl;

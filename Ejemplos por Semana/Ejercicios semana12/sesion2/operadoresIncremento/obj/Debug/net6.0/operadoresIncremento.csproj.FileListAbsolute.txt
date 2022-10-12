@@ -1,0 +1,15 @@
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\bin\Debug\net6.0\operadoresIncremento.exe
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\bin\Debug\net6.0\operadoresIncremento.deps.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\bin\Debug\net6.0\operadoresIncremento.runtimeconfig.json
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\bin\Debug\net6.0\operadoresIncremento.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\bin\Debug\net6.0\ref\operadoresIncremento.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\bin\Debug\net6.0\operadoresIncremento.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.AssemblyInfoInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.AssemblyInfo.cs
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\ref\operadoresIncremento.dll
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.pdb
+C:\Users\alexa\Dropbox\Ciclo II - 2021\Programacion I\Ejercicios y ejemplos\Ejercicios semana12\sesion2\operadoresIncremento\obj\Debug\net6.0\operadoresIncremento.genruntimeconfig.cache
